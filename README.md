@@ -1,6 +1,7 @@
 # Retail-Data-Analytics
 ### ten projects regarding retail data
 Data from Dunnhumby, Victoria's Secret, Calvin Klein, Amazon, American Eagle, Hanky Panky, Nordstrom, Topshop USA, Btemptd, Macy's
+Libraries used: Pandas, Numpy, Seaborn, Facebook's Prophet, sklearn
 
 #### Dunnhumby Data:
 - 8 CSV's
